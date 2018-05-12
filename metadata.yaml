@@ -1,4 +1,5 @@
 _repo: Anthon-L-Skanchy-A-Brief-Autobiographical-Sketch-of-the-Missionary-Labors-of-a-Valiant-Soldie__48668
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,12 +10,17 @@ contributor:
       gutenberg_agent_id: '1593'
       url: http://www.gutenberg.org/2009/agents/1593
       wikipedia: http://en.wikipedia.org/wiki/John_A._Widtsoe
+covers:
+- cover_type: archival
+  image_path: 48668-h/images/cover.jpg
 creator:
   author:
     agent_name: Skanchy, Anthon L.
     gutenberg_agent_id: '44910'
     url: http://www.gutenberg.org/2009/agents/44910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48668#Anthon-L-Skanchy-A-Brief-Autobiographical-Sketch-of-the-Missionary-Labors-of-a-Valiant-Soldie_
 gutenberg_issued: '2015-04-08'
 gutenberg_type: Text
 identifiers:
